@@ -29,30 +29,18 @@ The pipeline ensures that only trustworthy records are included in reporting whi
 ## Project Objectives
 
 The pipeline performs the following tasks:
-
-✅ Discover transaction files automatically
-
-✅ Read and process multiple CSV files
-
-✅ Validate file structure against required columns
-
-✅ Detect missing values
-
-✅ Detect invalid quantities and prices
-
-✅ Detect duplicate transaction IDs across all files
-
-✅ Clean and standardize valid records
-
-✅ Generate calculated line totals
-
-✅ Consolidate all valid transactions
-
-✅ Separate rejected transactions with rejection reasons
-
-✅ Produce an operational processing summary
-
-✅ Generate execution logs
+- Discover transaction files automatically
+- Read and process multiple CSV files
+- Validate file structure against required columns
+- Detect missing values
+- Detect invalid quantities and prices
+- Detect duplicate transaction IDs across all files
+- Clean and standardize valid records
+- Generate calculated line totals
+- Consolidate all valid transactions
+- Separate rejected transactions with rejection reasons
+- Produce an operational processing summary
+- Generate execution logs
 
 ---
 
