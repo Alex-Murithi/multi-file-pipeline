@@ -1,0 +1,17 @@
+=== Processing summary ===
+Files discovered:         3
+Files processed:          2
+Files with column issues: 1
+
+Column details:
+transactions_2026-10-03.csv: missing quantity
+
+Rows read:                31
+Rows accepted:            24
+Rows rejected:            7
+  - missing values:       4
+  - invalid numbers:      3
+  - duplicate IDs:        2
+
+Total revenue (KES):      15915
+Run finished at:          2026-10-27T20:22:03.557091
